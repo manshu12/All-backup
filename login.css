@@ -1,0 +1,33 @@
+.wrapper .login-header {
+    background-color: #000;
+    color: white;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.wrapper i, .wrapper span {
+    color: #d1d1d1;
+    font-size: 16px;
+}
+
+.wrapper button {
+    float: right
+}
+
+.wrapper a:hover{
+    text-decoration: none;
+}
+
+.wrapper input{
+    background: white;
+    color: #d1d1d1;
+}
+
+.wrapper .form-group .input-control{
+    outline: none !important;
+    border: none !important;
+}
+
+.wrapper input::placeholder{
+    color: #d1d1d1;
+}
+
+
